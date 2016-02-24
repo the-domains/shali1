@@ -1,7 +1,7 @@
 name: Shali
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.14134
+layout_spectrum: 0.25527
+typography_spectrum: 0.27379
 title: My love
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3d5c92'
-    - '#b2adb4'
-    - '#290101'
-    - '#a15018'
-    - '#fbab51'
+    - '#fcfcfc'
+    - '#dcc9b8'
+    - '#ad9e49'
+    - '#222512'
+    - '#5a5126'
   brandStrength: 0.5625
-  lightness: 0.625
+  lightness: 0.6875
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
