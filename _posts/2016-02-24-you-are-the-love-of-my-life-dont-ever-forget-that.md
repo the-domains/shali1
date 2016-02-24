@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:46:44.626Z'
-dateModified: '2016-02-24T11:46:40.876Z'
+datePublished: '2016-02-24T11:47:04.770Z'
+dateModified: '2016-02-24T11:46:59.734Z'
 title: "You are the love of my life.... don't ever forget that."
 author: []
 sourcePath: _posts/2016-02-24-you-are-the-love-of-my-life-dont-ever-forget-that.md
